@@ -14,5 +14,5 @@
 
 
 
-<a href = "https://www.instagram.com/asauvis/"> <img width=100px height=50px src="https://t.ctcdn.com.br/9cs6_PUJI10R8WdqC_c4kAComTM=/1600x900/smart/i448408.png"></a> 
+<a href = "https://www.instagram.com/asauvis/"> <img width=100px height=50px src="https://t.ctcdn.com.br/9cs6_PUJI10R8WdqC_c4kAComTM=/1600x900/smart/i448408.png"></a> <a href = "https://www.instagram.com/asauvis/"> <img width=100px height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Better_GMAIL_Logo.svg/1280px-Better_GMAIL_Logo.svg.png"></a> 
 
